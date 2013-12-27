@@ -1,0 +1,18 @@
+[submodule "ft_sh1"]
+	path = ft_sh1
+	url = dev_darkboss@git.quantum-realm.com:ft_sh1
+[submodule "libft"]
+	path = libft
+	url = dev_darkboss@git.quantum-realm.com:libft
+[submodule "libopt"]
+	path = libopt
+	url = dev_darkboss@git.quantum-realm.com:libopt
+[submodule "libmath"]
+	path = libmath
+	url = dev_darkboss@git.quantum-realm.com:libmath
+[submodule "ft_ls"]
+	path = ft_ls
+	url = dev_darkboss@git.quantum-realm.com:ft_ls
+[submodule "ft_printf"]
+	path = ft_printf
+	url = dev_darkboss@git.quantum-realm.com:ft_printf
